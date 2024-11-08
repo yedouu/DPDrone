@@ -1,2 +1,2 @@
-# SCAU_701_Drone_system
+# DPDrone
 SCAU_701 Drone system
